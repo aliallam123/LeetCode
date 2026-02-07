@@ -1,29 +1,31 @@
+# Swap Case
+
 You are given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa.
 
-For Example:
+## Example
 
-Www.HackerRank.com → wWW.hACKERrANK.COM
+Www.HackerRank.com → wWW.hACKERrANK.COM  
 Pythonist 2 → pYTHONIST 2  
-Function Description
 
-Complete the swap_case function in the editor below.
+## Function Description
 
-swap_case has the following parameters:
+Complete the `swap_case` function in the editor below.
 
-string s: the string to modify
-Returns
+### Parameters
 
-string: the modified string
-Input Format
+- `string s`: the string to modify
 
-A single line containing a string .
+### Returns
 
-Constraints
+- `string`: the modified string
 
+## Input Format
 
-Sample Input 0
+A single line containing a string.
 
-HackerRank.com presents "Pythonist 2".
-Sample Output 0
+## Constraints
 
-hACKERrANK.COM PRESENTS "pYTHONIST 2".
+- None specified
+
+## Sample Input 0
+
